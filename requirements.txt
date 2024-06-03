@@ -1,0 +1,9 @@
+Flask
+Gunicorn
+email
+random
+fpdf
+smtplib
+os
+re
+
